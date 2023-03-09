@@ -5,3 +5,4 @@ npx hasura console
 -- if you open it in post 8080 we'd have to do it manually -- 
 
 -- we have the flexiblity to use the use hasura metadata.export that create a metadata file -- 
+--- hasura migrate gives way more flexiblity -- 
