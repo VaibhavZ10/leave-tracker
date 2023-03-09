@@ -1,1 +1,3 @@
-- "!include public_test_table.yaml"
+- "!include public_leave.yaml"
+- "!include public_status.yaml"
+- "!include public_user.yaml"
